@@ -1,0 +1,183 @@
+================================================================================
+                    LICENÇA PROPRIETÁRIA EXCLUSIVA
+                         KABUM WEB SCRAPING
+================================================================================
+
+Copyright (c) 2026 hrsallan, nicolaszbq, gustavoobezerra. 
+Todos os direitos reservados.
+
+AVISO LEGAL IMPORTANTE - LEIA COM ATENÇÃO
+
+Este software e toda a documentação associada ("Software") são propriedade
+exclusiva e intelectual dos autores identificados acima. Este documento 
+constitui um acordo legal vinculativo.
+
+================================================================================
+                           TERMOS E CONDIÇÕES
+================================================================================
+
+1. PROPRIEDADE INTELECTUAL E DIREITOS AUTORAIS
+--------------------------------------------------------------------------------
+1.1. Este Software é protegido por leis de direitos autorais nacionais e
+     internacionais, incluindo, mas não limitado a:
+     - Lei nº 9.610/1998 (Lei de Direitos Autorais - Brasil)
+     - Lei nº 9.609/1998 (Lei de Software - Brasil)
+     - Convenção de Berna para a Proteção de Obras Literárias e Artísticas
+     - Acordo TRIPS (Trade-Related Aspects of Intellectual Property Rights)
+
+1.2. Todos os direitos de propriedade intelectual, incluindo código-fonte,
+     algoritmos, estruturas de dados, documentação, designs e quaisquer
+     trabalhos derivados permanecem exclusivamente com os autores.
+
+2. PROIBIÇÕES EXPRESSAS
+--------------------------------------------------------------------------------
+SEM AUTORIZAÇÃO PRÉVIA, EXPRESSA E POR ESCRITO DOS AUTORES, É ESTRITAMENTE
+PROIBIDO:
+
+2.1. Copiar, reproduzir, duplicar ou clonar este Software, total ou
+     parcialmente, por qualquer meio físico ou digital;
+
+2.2. Modificar, adaptar, traduzir, descompilar, realizar engenharia reversa,
+     desmontar ou criar trabalhos derivados baseados neste Software;
+
+2.3. Distribuir, sublicenciar, alugar, arrendar, emprestar, vender ou
+     transferir este Software a terceiros;
+
+2.4. Utilizar este Software para fins comerciais, lucrativos ou de
+     qualquer natureza empresarial;
+
+2.5. Incorporar qualquer parte deste Software em outros projetos, produtos
+     ou serviços;
+
+2.6. Remover, alterar ou ocultar avisos de direitos autorais, marcas
+     registradas ou outras indicações de propriedade;
+
+2.7. Utilizar este Software em servidores públicos, sistemas de produção
+     ou ambientes acessíveis a terceiros;
+
+2.8. Compartilhar, publicar ou divulgar o código-fonte em repositórios
+     públicos ou privados sem autorização;
+
+2.9. Utilizar técnicas de web scraping, crawling ou automação baseadas
+     neste Software para coleta de dados sem consentimento.
+
+3. AUTORIZAÇÃO DE USO
+--------------------------------------------------------------------------------
+3.1. Qualquer uso deste Software requer autorização prévia, expressa e por
+     escrito dos autores, que deve ser solicitada através dos canais oficiais
+     de comunicação.
+
+3.2. A autorização, quando concedida, será específica, limitada e poderá
+     ser revogada a qualquer momento, a critério exclusivo dos autores.
+
+3.3. A autorização não implica transferência de direitos de propriedade
+     intelectual.
+
+4. PENALIDADES E CONSEQUÊNCIAS LEGAIS
+--------------------------------------------------------------------------------
+4.1. O USO NÃO AUTORIZADO DESTE SOFTWARE CONSTITUI VIOLAÇÃO DE DIREITOS
+     AUTORAIS E ESTARÁ SUJEITO A:
+
+     a) RESPONSABILIDADE CIVIL:
+        - Indenização por danos materiais e morais
+        - Perdas e danos, incluindo lucros cessantes
+        - Restituição de valores obtidos indevidamente
+        - Custas processuais e honorários advocatícios
+        - Multa compensatória no valor mínimo de R$ 50.000,00
+          (cinquenta mil reais) por cada violação identificada
+
+     b) RESPONSABILIDADE CRIMINAL:
+        - Crime de violação de direito autoral (Art. 184 do Código Penal)
+          Pena: detenção de 3 meses a 1 ano, ou multa
+        - Violação de direito autoral com intuito de lucro
+          Pena: reclusão de 2 a 4 anos, e multa
+        - Crime contra a propriedade intelectual de programa de computador
+          (Art. 12 da Lei 9.609/98)
+          Pena: detenção de 6 meses a 2 anos ou multa
+
+     c) MEDIDAS JUDICIAIS:
+        - Ação de busca e apreensão
+        - Medidas cautelares e tutelas de urgência
+        - Ação de obrigação de fazer e não fazer
+        - Bloqueio e remoção de conteúdo infrator
+        - Notificação extrajudicial
+
+4.2. O infrator responderá solidariamente com qualquer pessoa física ou
+     jurídica que tenha participado, colaborado ou se beneficiado da
+     violação.
+
+4.3. A violação poderá ser perseguida nas esferas cível, criminal e
+     administrativa, de forma independente ou cumulativa.
+
+5. ISENÇÃO DE GARANTIAS
+--------------------------------------------------------------------------------
+5.1. ESTE SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIAS DE QUALQUER
+     NATUREZA, EXPRESSAS OU IMPLÍCITAS.
+
+5.2. Os autores não garantem que o Software seja livre de erros, ininterrupto,
+     adequado a qualquer finalidade específica ou compatível com outros
+     sistemas.
+
+5.3. O uso do Software é por conta e risco exclusivo do usuário autorizado.
+
+6. LIMITAÇÃO DE RESPONSABILIDADE
+--------------------------------------------------------------------------------
+6.1. Em nenhuma circunstância os autores serão responsáveis por quaisquer 
+     danos diretos, indiretos, incidentais, especiais, consequenciais ou 
+     punitivos decorrentes do uso ou impossibilidade de uso deste Software.
+
+6.2. Esta limitação aplica-se mesmo que os autores tenham sido informados da
+     possibilidade de tais danos.
+
+7. JURISDIÇÃO E FORO
+--------------------------------------------------------------------------------
+7.1. Esta licença será regida e interpretada de acordo com as leis da
+     República Federativa do Brasil.
+
+7.2. Fica eleito o foro da comarca de domicílio dos autores para dirimir
+     quaisquer controvérsias oriundas desta licença, com renúncia expressa
+a qualquer outro, por mais privilegiado que seja.
+
+8. DISPOSIÇÕES GERAIS
+--------------------------------------------------------------------------------
+8.1. A invalidade ou inexequibilidade de qualquer disposição desta licença
+     não afetará a validade das demais disposições.
+
+8.2. A tolerância ou omissão dos autores em exigir o cumprimento de qualquer
+     disposição não constituirá renúncia ou novação.
+
+8.3. Esta licença constitui o acordo integral entre as partes em relação
+     ao Software, substituindo quaisquer acordos anteriores.
+
+8.4. Modificações a esta licença somente serão válidas se realizadas por
+     escrito e assinadas pelos autores.
+
+================================================================================
+                           CRÉDITOS E ATRIBUIÇÕES
+================================================================================
+
+Este projeto foi desenvolvido com base no trabalho original de:
+@pedrohcleal - https://github.com/pedrohcleal/kabum-api-scraper
+
+O código inicial e a inspiração para este projeto são creditados ao autor
+acima mencionado, em conformidade com os princípios de atribuição e
+reconhecimento de contribuições à comunidade de desenvolvedores.
+
+================================================================================
+                              AUTORES
+================================================================================
+
+• hrsallan      - https://github.com/hrsallan
+• nicolaszbq    - https://github.com/nicolaszbq
+• gustavoobezerra - https://github.com/gustavoobezerra
+
+================================================================================
+                              CONTATO
+================================================================================
+
+Para solicitar autorização de uso ou esclarecer dúvidas sobre esta licença,
+entre em contato com qualquer um dos autores através do GitHub.
+
+================================================================================
+        TODOS OS DIREITOS RESERVADOS © 2026 hrsallan, nicolaszbq, gustavoobezerra
+================================================================================
