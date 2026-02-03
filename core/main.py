@@ -133,7 +133,16 @@ def hardware_data(category: str):
     return total_products
 
 
+from pathlib import Path
+from openpyxl import Workbook
+
 def to_excel(data, file_name):
+    BASE_DIR = Path(__file__).resolve().parent
+    DATA_DIR = BASE_DIR.parent / "data"
+    DATA_DIR.mkdir(exist_ok=True)
+
+    file_path = DATA_DIR / file_name
+
     workbook = Workbook()
     sheet = workbook.active
     sheet.title = "Hardware Products"
@@ -153,7 +162,7 @@ def to_excel(data, file_name):
     sheet.append(headers)
 
     for item in data:
-        row = [
+        sheet.append([
             item.get("id"),
             item.get("name"),
             item.get("price"),
@@ -164,12 +173,10 @@ def to_excel(data, file_name):
             item.get("photos-g"),
             item.get("warranty"),
             item.get("url"),
-        ]
-        sheet.append(row)
+        ])
 
-    workbook.save(file_name)
-    print(f"Arquivo Excel salvo como '{file_name}'")
-
+    workbook.save(file_path)
+    print(f"✅ Arquivo Excel salvo em: {file_path}")
 
 def main():
     hardware_inicial_data = hardware_data("hardware")
